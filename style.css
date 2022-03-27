@@ -65,3 +65,10 @@ body {
     margin-bottom: 21px;
     cursor: pointer;
 }
+
+.winsLosses {
+    text-align: center;
+    font-size: 18px;
+    color: #00ffff;
+    font-family: 'Work Sans';
+}
